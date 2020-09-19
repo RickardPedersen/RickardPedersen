@@ -1,4 +1,4 @@
-### Hello! My name is Rickard Pedersen!
+### Hello 👋 My name is Rickard Pedersen!
 
 I am a full stack web developer student at Nackademin.
 
